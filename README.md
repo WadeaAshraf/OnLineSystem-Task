@@ -4,7 +4,7 @@ The solution in consists of three main parts or foldes:
 
 2-APi Folder : Onion architecture projects
 
-3-Shared Models: The ViewModels common on Client Side and Api ,it is taken as areference on portal and appliction
+3-Shared Models: The ViewModels common on Client Side and Api ,it is taken as a reference on portal and appliction
 
 General info:
 Iam using Mediator ,AutoMapper Packages on API Project
